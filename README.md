@@ -15,4 +15,4 @@ __Note 1: The first notebook had two parts: International and Switzerland's Case
 Link for the  data:
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
-__Note 2: There are some data quality issues made by the providers as the number of cases of cases and deaths for many countries reported are wrongly inputted. On April 15th 2020, we started to have this issue for only one row: the international conveyance of Japan with -9 cases. On September 3rd 2020, we had 15+ countries with this issue. __
+__Note 2: There are some data quality issues made by the providers as the number of cases of cases and deaths for many countries reported are wrongly inputted. On April 15th 2020, we started to have this issue for only one row: the international conveyance of Japan with -9 cases. On September 3rd 2020, we had 15+ countries with this issue.__
