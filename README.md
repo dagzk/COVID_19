@@ -2,7 +2,7 @@
 
 Case Study of Switzerland During COVID-19
 
-Using data updated daily from ECDC's website, we take a look at the number of cases and deaths for countries within the dataset. We then focus on Switzerland's data. Note that the data is updated daily. I used AWS services to run my original script daily.
+Using data updated daily from ECDC's website, we take a look at the number of cases and deaths for countries within the dataset. We then focus on Switzerland's data. Note that the data is updated daily.
 
 ### What This Notebook Shows:
 1. General review and use of Pandas, Numpy, SciPy, Scikit-learn, Matplotlib, Seaborn and Styling
