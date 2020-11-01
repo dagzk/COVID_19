@@ -17,7 +17,7 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 
 __Note 2: There are some data quality issues made by the providers as the number of cases of cases and deaths for many countries reported are wrongly inputted. On April 15th 2020, we started to have this issue for only one row: the international conveyance of Japan with -9 cases. On September 3rd 2020, we had 15+ countries with this issue.__
 
-__:Note 3: Conclusion Written Before November 1st (Quarantine Announced in Switzerland)__ 
+__Note 3: Conclusion Written Before November 1st (Quarantine Announced in Switzerland)__ 
 
 Regarding COVID, some people question if the virus is a real threat (whether there should be a quarantine in Switzerland) anymore when we look at the number of deaths vs the number of cases. Many "experts" do not understand the real meaning behind statistics as we are highly connected today and that the contamination factor is not linear but in fact quite exponential/non-linear. Much of these statistics above are hence quite meaningless on top of the data quality not being great either (to follow up on data quality, it would be good to have the number of tests administered, the recontamination factor percentage and many more useful information).
 
